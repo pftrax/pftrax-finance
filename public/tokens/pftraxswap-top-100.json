@@ -1,14 +1,14 @@
 {
-  "name": "RimauSwap Top 100",
+  "name": "PFTSwap Top 100",
   "timestamp": "2021-08-20T08:45:36.266Z",
   "version": {
     "major": 2,
     "minor": 16,
     "patch": 5
   },
-  "logoURI": "https://rimau.finance/images/tokens/0x098dCbf3518856E45BB4e65E7fCc7C5Ff4a2C16e.png",
+  "logoURI": "https://pftrax.com/images/tokens/0x098dCbf3518856E45BB4e65E7fCc7C5Ff4a2C16e.png",
   "keywords": [
-    "rimauswap",
+    "pftswap",
     "top 100"
   ],
   "tokens": [
